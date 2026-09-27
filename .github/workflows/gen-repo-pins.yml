@@ -28,7 +28,7 @@ jobs:
           # what "must be in a single string and separated by commas" is checking.
           # The list also fixes the pin count, so num_repo_pins and repo_pin_order
           # are left out: the action ignores both once this input is set.
-          repo_names_exclusive: "ssouzawallace/blocks,ssouzawallace/Rick-and-Morty-Characters,ssouzawallace/cats,ssouzawallace/senolop,ssouzawallace/appia-design-system"
+          repo_names_exclusive: "wallawonka/blocks,wallawonka/Rick-and-Morty-Characters,wallawonka/cats,wallawonka/senolop,wallawonka/appia-design-system"
 
           # is_exclude_repos_owned, is_exclude_repos_contributed,
           # is_contribution_stats, is_i18n, is_nllb and hf_token are omitted
