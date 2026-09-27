@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%7C+Web+%7C+IoT;Swift+%7C+Kotlin+%7C+TypeScript;RoboCup+2011+Champion+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ssouzawallace&style=flat-square&color=70A5FD)](https://github.com/ssouzawallace)
+[![Profile Views](https://komarev.com/ghpvc/?username=wallawonka&style=flat-square&color=70A5FD)](https://github.com/wallawonka)
 
 </div>
 
@@ -22,7 +22,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 |---------|-------------|-------|
 | **[FAPESP](https://fapesp.br/)** | Equipment sharing platform for São Paulo Research Foundation — heading to **beta launch** | Next.js, Prisma, Oracle Cloud, Auth.js |
 | **[Freeya](https://freeya.com/)** | Cross-platform mobile app with shared business logic | SwiftUI (iOS), Kotlin (Android), GraphQL |
-| **[Appia Design System](https://github.com/ssouzawallace/appia-design-system)** | Component library for AppiaCare | Design tokens, component architecture |
+| **[Appia Design System](https://github.com/wallawonka/appia-design-system)** | Component library for AppiaCare | Design tokens, component architecture |
 
 ---
 
@@ -89,7 +89,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 |-----|-------------|
 | **Zebec** | Music streaming and discovery app for iOS |
 | **LocAlarm** | Location-based alarm app — set alarms triggered by your GPS location |
-| **[Senolop](https://github.com/ssouzawallace/senolop)** | RPN (Reverse Polish Notation) Calculator for iOS |
+| **[Senolop](https://github.com/wallawonka/senolop)** | RPN (Reverse Polish Notation) Calculator for iOS |
 
 
 ---
@@ -98,8 +98,8 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 
 <div align="center">
 
-![](https://github.com/ssouzawallace/github-stats-mod/blob/generated/overview.svg)
-![](https://github.com/ssouzawallace/github-stats-mod/blob/generated/languages.svg)
+![](https://github.com/wallawonka/github-stats-mod/blob/generated/overview.svg)
+![](https://github.com/wallawonka/github-stats-mod/blob/generated/languages.svg)
 </div>
 
 
@@ -109,10 +109,10 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 
 <!-- FEATURED-REPOS:START · rebuilt daily from the repo-pins images by .github/scripts/featured_repos.py, so edits here are overwritten -->
 <p>
-<a href="https://github.com/ssouzawallace/blocks"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/0.svg" alt="blocks"></picture></a>
-<a href="https://github.com/ssouzawallace/Rick-and-Morty-Characters"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/1.svg" alt="Rick-and-Morty-Characters"></picture></a>
-<a href="https://github.com/ssouzawallace/cats"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/2.svg" alt="cats"></picture></a>
-<a href="https://github.com/ssouzawallace/appia-design-system"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg 1x"><source srcset="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg?full-width 1w"><img src="https://raw.githubusercontent.com/ssouzawallace/ssouzawallace/refs/heads/generated/repo_pin_imgs/3.svg" alt="appia-design-system"></picture></a>
+<a href="https://github.com/wallawonka/blocks"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/0.svg 1x"><source srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/0.svg?full-width 1w"><img src="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/0.svg" alt="blocks"></picture></a>
+<a href="https://github.com/wallawonka/Rick-and-Morty-Characters"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/1.svg 1x"><source srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/1.svg?full-width 1w"><img src="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/1.svg" alt="Rick-and-Morty-Characters"></picture></a>
+<a href="https://github.com/wallawonka/cats"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/2.svg 1x"><source srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/2.svg?full-width 1w"><img src="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/2.svg" alt="cats"></picture></a>
+<a href="https://github.com/wallawonka/appia-design-system"><picture><source media="(min-width: 1280px)" srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/3.svg 1x"><source srcset="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/3.svg?full-width 1w"><img src="https://raw.githubusercontent.com/wallawonka/wallawonka/refs/heads/generated/repo_pin_imgs/3.svg" alt="appia-design-system"></picture></a>
 </p>
 <!-- FEATURED-REPOS:END -->
 
@@ -121,7 +121,7 @@ Software Engineer at **[Profusion](https://profusion.mobi)** with 12+ years of e
 ## 🔭 Interests & Side Projects
 
 - 🐢 [Logo (programming language)](https://en.wikipedia.org/wiki/Logo_(programming_language)) · [Logo Foundation](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
-- 🧱 [Blocks](https://github.com/ssouzawallace/blocks) — Visual block-based language that generates textual code (Unity3D + Python)
+- 🧱 [Blocks](https://github.com/wallawonka/blocks) — Visual block-based language that generates textual code (Unity3D + Python)
 - ⚡ [MadMachine SwiftIO](https://github.com/madmachineio/SwiftIO) — Swift for microcontrollers
 - 🐦 [HUMMINGBIRD Projects](https://learn.birdbraintechnologies.com/hummingbirdduo/projects) — Robotics kits & educational hardware
 
