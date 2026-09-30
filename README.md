@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%7C+Web+%7C+IoT;Swift+%7C+Kotlin+%7C+TypeScript;RoboCup+2011+Champion+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wallawonka&style=flat-square&color=70A5FD)](https://github.com/wallawonka)
-
 </div>
 
 ---
